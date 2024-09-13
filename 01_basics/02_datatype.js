@@ -12,4 +12,4 @@
 
     // object
 
-    console.log(typeof "janvi");
+    console.log(typeof "name");
